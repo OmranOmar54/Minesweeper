@@ -1,1 +1,1 @@
-Basic Unity made Web-Based minesweeper game. To win a game of Minesweeper, all non-mine cells must be opened without opening a mine. There is no score, but there is a timer recording the time taken to finish the game. Difficulty can be increased by adding mines or starting with a larger grid.
+
